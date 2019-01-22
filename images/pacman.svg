@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 529 55.4" style="enable-background:new 0 0 529 55.4;" xml:space="preserve">
+<path id="PacMan" d="M49.1,42.2L29.8,29.1c-1-0.7-1-2.2,0-2.9l19.3-13.1c0.8-0.6,1-1.7,0.4-2.5C44.4,4.2,36.5,0,27.7,0
+	C11.8,0-1,13.4,0.1,29.5C1,43.1,12,54.3,25.6,55.3C35.3,56,44,51.7,49.5,44.8C50.1,44,49.9,42.8,49.1,42.2z M22.8,11.7
+	c0-2.9,2.4-5.2,5.2-5.2c2.9,0,5.2,2.4,5.2,5.2c0,2.9-2.4,5.2-5.2,5.2C25.1,16.9,22.8,14.6,22.8,11.7z"/>
+<circle id="food1" cx="107.7" cy="27.5" r="5.9"/>
+<circle id="food2" cx="70.5" cy="27.5" r="5.9"/>
+<circle id="food3" cx="144.9" cy="27.7" r="5.9"/>
+<circle id="food4" cx="221.3" cy="27.6" r="5.9"/>
+<circle id="food5" cx="184.1" cy="27.6" r="5.9"/>
+<circle id="food6" cx="258.5" cy="27.8" r="5.9"/>
+<circle id="food7" cx="335.7" cy="27.4" r="5.9"/>
+<circle id="food8" cx="298.5" cy="27.4" r="5.9"/>
+<circle id="food9" cx="372.9" cy="27.6" r="5.9"/>
+<circle id="food10" cx="449.3" cy="27.5" r="5.9"/>
+<circle id="food11" cx="412.1" cy="27.5" r="5.9"/>
+<circle id="food12" cx="486.5" cy="27.6" r="5.9"/>
+</svg>
